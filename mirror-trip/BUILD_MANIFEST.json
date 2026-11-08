@@ -61,6 +61,11 @@
       "sha256": "cbc93b58629fcbed261e891f1ba7c704e082347af912494a8fd2ff6a56b9a4c4"
     },
     {
+      "file": "README.txt",
+      "bytes": 304,
+      "sha256": "98e5199d8a54b5dd8c936fa20b029a253a5e7f923d004701fafd1827ae18a029"
+    },
+    {
       "file": "StreamingAssets/ThirdPartyLicenses/PatrickHand-OFL.txt",
       "bytes": 4376,
       "sha256": "377f4f9c19e935228552478eb68cc2ed82910988a60ba60e2ac73b09f32d02d1"
