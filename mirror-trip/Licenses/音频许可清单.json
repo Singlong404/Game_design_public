@@ -1,0 +1,517 @@
+{
+  "verifiedDate": "2026-11-07",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "excluded": "Previous 15_长段背景音乐_CC_BY is CC BY 4.0, not imported or referenced.",
+  "files": [
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\地毯脚步1__footstep_carpet_000.ogg",
+      "sha256": "b9524658b52a99a20590f8feefc103088637fd13ea8ec35811aee785e1f2f330",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_carpet_000.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\地毯脚步2__footstep_carpet_001.ogg",
+      "sha256": "9af3c3f76705107339e72036e4053bdca3eaa50ad31c8c929f42ce8d40e5d781",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_carpet_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\地毯脚步3__footstep_carpet_002.ogg",
+      "sha256": "9af3c3f76705107339e72036e4053bdca3eaa50ad31c8c929f42ce8d40e5d781",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_carpet_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\地毯脚步4__footstep_carpet_003.ogg",
+      "sha256": "4ae7454338d57c7d102145919ae653c7d010eb542797c4f25a1c7470be3a7e4c",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_carpet_003.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\地毯脚步5__footstep_carpet_004.ogg",
+      "sha256": "4ae7454338d57c7d102145919ae653c7d010eb542797c4f25a1c7470be3a7e4c",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_carpet_003.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\木地脚步1__footstep_wood_000.ogg",
+      "sha256": "5f1c252942a220d658121bd9417448cd19649ded9fff2ff15f6e50899373ce8e",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_wood_000.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\木地脚步2__footstep_wood_001.ogg",
+      "sha256": "e4f68e1c9fd55b4dc8ca89ed2bbab6f200171bc54bdc18aa96b80d8e7336f462",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_wood_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\木地脚步3__footstep_wood_002.ogg",
+      "sha256": "9ff095b05cee5eec40b081defe3f0eef7232bb16d4865ce03b9f6dbab875cfdd",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_wood_002.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\木地脚步4__footstep_wood_003.ogg",
+      "sha256": "2a68a083daa9eda08fed0ea5da5280dfbe0de226196c576be02f95259dd139d9",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_wood_003.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\木地脚步5__footstep_wood_004.ogg",
+      "sha256": "b33e0854e2b3f6b6492e25c25ef8f90447a332f7c6bb25dd02edced9581d3441",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_wood_004.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\硬地脚步1__footstep_concrete_000.ogg",
+      "sha256": "d7267e183067757c92c169de2a379abea592cfca6b39bb2e8feea15221ad79fe",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_concrete_000.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\硬地脚步2__footstep_concrete_001.ogg",
+      "sha256": "507a75eb19b897087855a3be3cf11a12d7fa37d143ad535eeebe0b8031c7325d",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_concrete_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\硬地脚步3__footstep_concrete_002.ogg",
+      "sha256": "b21fa546d74941196b25da8a20b7010abd8c05c4fcf93545d1f344e66a664e13",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_concrete_002.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\硬地脚步4__footstep_concrete_003.ogg",
+      "sha256": "8b513c2f0316324060b9174b8f28df6c2147418c506e6a53b77f18e149a5547b",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_concrete_003.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\硬地脚步5__footstep_concrete_004.ogg",
+      "sha256": "24dd8db2413e5b81ad181e1205c12a1c7801da5f85715d471b92a4b2f632e45e",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\footstep_concrete_004.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\轻落地候选1__impactSoft_medium_000.ogg",
+      "sha256": "7d3ba0bb5e60a11b5d3e558c141303dcf494256675fbf753c0d252d2cf0481e3",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\impactSoft_medium_000.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\轻落地候选2__impactSoft_medium_001.ogg",
+      "sha256": "7642a4fd43e547afe4f7adfadb3dabb681c0ff512f52c1674bae30a726841faf",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\impactSoft_medium_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\01_脚步与落地\\轻落地候选3__impactSoft_medium_002.ogg",
+      "sha256": "5069e3571a77d7f7aae9ef71d0364aa245fb7d64a7c8cc9956f221d03088c089",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\impactSoft_medium_002.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\02_卡牌与冲刺\\卡牌翻动候选1__bookFlip1.ogg",
+      "sha256": "fa81ac2fedc8c641661b87e349630a36c9800e795e0c800e029214efdbe26a7d",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\bookFlip1.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\02_卡牌与冲刺\\卡牌翻动候选2__bookFlip2.ogg",
+      "sha256": "3409042acbfaebc24c1a6327dc073e36f9250841712e96c5040da566a97df73c",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\bookFlip2.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\02_卡牌与冲刺\\卡牌翻动候选3__bookFlip3.ogg",
+      "sha256": "c85db5dceb3f1df073e960630277eaa88a5afda0477c1ddd68dad707621767be",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\bookFlip3.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\02_卡牌与冲刺\\短掠风1__knifeSlice.ogg",
+      "sha256": "4cd96dc630bed9840c15f1dd2306da2cc56a4da26a5d3f1a03c5a7265ac5e54f",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\knifeSlice.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\02_卡牌与冲刺\\短掠风2__knifeSlice2.ogg",
+      "sha256": "6c2064d0ef988d1ec3d56868e823ea8823a5cac00f2742560052633529407def",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\knifeSlice2.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\02_卡牌与冲刺\\衣摆1__cloth1.ogg",
+      "sha256": "ddb93a3671233f95da0e0b10367f082f7eb42fa6caaddcf776410aa8833c747d",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\cloth1.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\02_卡牌与冲刺\\衣摆2__cloth2.ogg",
+      "sha256": "8a7451193c38bc05483aec25dd193e163a15d44cf7fff04ac7912573231b0201",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\cloth2.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\03_镜面与转换\\世界切换异响候选__glitch_001.ogg",
+      "sha256": "da78c642bbd95da2c364ed0e991ebbfc5a4c0d281165d932b5819e0dd31a39d2",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\glitch_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\03_镜面与转换\\镜面中击1__impactGlass_medium_000.ogg",
+      "sha256": "9252d50bfb85edb17d6073c4a7806e10cdb9de56d3dbfc93a4b9727146d2df6d",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\impactGlass_medium_000.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\03_镜面与转换\\镜面中击2__impactGlass_medium_001.ogg",
+      "sha256": "d3d806cb3012c9ddd87010b30295ccb74d6d8b690077d19e67afd09a9d8feb03",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\impactGlass_medium_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\03_镜面与转换\\镜面清音1__glass_001.ogg",
+      "sha256": "183eebee20eb0a532b0b85104d139cbf2673eb66d95c3cc733ac9ea98362e7e8",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\glass_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\03_镜面与转换\\镜面清音2__glass_002.ogg",
+      "sha256": "08e972c73e53c91d6d310e107e80db60edce78ae47225889a028e628a6f3da49",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\glass_002.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\03_镜面与转换\\镜面轻击1__impactGlass_light_000.ogg",
+      "sha256": "d750cf88097d0c3e69920e6e14496e1444e1a9da01aa4cca8f5ec8cb44c57b4f",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\impactGlass_light_000.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\03_镜面与转换\\镜面轻击2__impactGlass_light_001.ogg",
+      "sha256": "05e513fbd42829060eb37855f8c3866722ec5c39a8937c9bfde518cc609effa2",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\impactGlass_light_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\03_镜面与转换\\镜面轻击3__impactGlass_light_002.ogg",
+      "sha256": "710db7451bb7857b9140dfe6afe4621ea2188ad65eda3919c569d1bb285b933d",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\impactGlass_light_002.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\04_机关与门\\关门1__doorClose_1.ogg",
+      "sha256": "834d29c60a8a8bfb50b158cdb6b7dfa8f02812a408a1ee9703d038dfab0b1aeb",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\doorClose_1.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\04_机关与门\\关门2__doorClose_2.ogg",
+      "sha256": "4aa4fe79836c53cd6d0cb0b22ddc33b9901429463ae1bb75131f072683f63f21",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\doorClose_2.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\04_机关与门\\开关1__switch_001.ogg",
+      "sha256": "3b74efad87f1e69dbd1d05c5ad952ab90859b5a3d11da6ec5bd79b4f03b42afa",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\switch_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\04_机关与门\\开关2__switch_002.ogg",
+      "sha256": "6fc395be2ad1f99ce318a5d28f98fb76dbeb676d83a0b28239d8c1fb90736180",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\switch_002.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\04_机关与门\\开门1__doorOpen_1.ogg",
+      "sha256": "4ab93bab96522d8eb109ff96dc57cb6765deb02448fe14c10472084be5bb2a0b",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\doorOpen_1.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\04_机关与门\\开门2__doorOpen_2.ogg",
+      "sha256": "68962fb0458c9bac59dec3adefa9849703c7c89d34712de03dd0075d095e79e9",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\doorOpen_2.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\04_机关与门\\机关卡扣__metalClick.ogg",
+      "sha256": "9851a69d0c613e13bceef08060ecc4148f098ef487927cbebe270d642398a3b3",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\metalClick.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\04_机关与门\\金属门闩__metalLatch.ogg",
+      "sha256": "ba9ba60b172b3ebc131a940f25793cd2e207aca7af73dc80d637277f060f1708",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\metalLatch.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\04_机关与门\\门轴吱响__creak1.ogg",
+      "sha256": "8a346186fd297254248cab8e8117060a52a5cf2a84f603153a762108550ea95e",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\rpg-audio\\Audio\\creak1.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\05_检查点与提示\\完成确认1__confirmation_001.ogg",
+      "sha256": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\confirmation_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\05_检查点与提示\\完成确认2__confirmation_002.ogg",
+      "sha256": "33b17a9a9a2397c62b285c52c33a907fdffb476909c99e42dde603f6a7a8b12c",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\confirmation_002.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\05_检查点与提示\\检查点钟音候选__impactBell_heavy_000.ogg",
+      "sha256": "94b8bb5f2d43ab65e4bcc32b28562416e9bc2c51d9fd4be1e333660ee52f977f",
+      "source": "https://kenney.nl/assets/impact-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\impact-sounds\\Audio\\impactBell_heavy_000.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\05_检查点与提示\\轻拨弦提示__pluck_001.ogg",
+      "sha256": "be97ec4893a02d6eccfb678daa76c83e34cb2583b834ec2593d2641def739fa4",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\pluck_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\06_UI\\不可用提示__error_001.ogg",
+      "sha256": "46e67425d16339772e8d328fb36a49426c9467418686e11beeb71ff84b0f6433",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\error_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\06_UI\\点击1__click_001.ogg",
+      "sha256": "ccfb7fa0cccdd9faec0eb16033c732b1e308d139d80f799161495d58f7adcdb9",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\click_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\06_UI\\点击2__click_002.ogg",
+      "sha256": "adcd1f4adc35f1b41bc1b5bbefeff7aa44f2f3f0d96d3199b544140c7c1e761c",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\click_002.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\06_UI\\翻页__scroll_001.ogg",
+      "sha256": "320c6aafb2c7a503eae508dc443b72d7f7c0a317bfd16813157ed400cd04cf16",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\scroll_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\06_UI\\菜单关闭__close_001.ogg",
+      "sha256": "44af8249b933e0fd35ec957a638bb1a0b01f85b53fbe9674bf77bd3ca3168ef4",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\close_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\06_UI\\菜单打开__open_001.ogg",
+      "sha256": "a27c6bb0df7da1e6af5dd5937593c98bc58b6e513f42fe6a3254cd6a6949c648",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\open_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\06_UI\\返回__back_001.ogg",
+      "sha256": "07db973f79f6ae0f2edc34561e7592e24d0577455919fb602cb8ecc0da991dcf",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\back_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\00_搭建素材\\03_音效_CC0\\06_UI\\选择__select_001.ogg",
+      "sha256": "aec0c31ea934a35936ae0d2ab8fac8123c93aa5647f935853a58dbaf90278b7a",
+      "source": "https://kenney.nl/assets/interface-sounds",
+      "original": "美术\\第一轮美术\\01_可用素材\\14_FX与商用音效\\04_原始音效包\\interface-sounds\\Audio\\select_001.ogg",
+      "license": "CC0-1.0",
+      "author": "Kenney",
+      "verification": "SHA256 matches original package; package License.txt and official page"
+    },
+    {
+      "file": "Assets\\Project\\Audio\\CC0_20261107\\Forest.ogg",
+      "sha256": "b9e05a1fcd5869b63193515e2a9c1bd578906a78e628e307f19527d387262593",
+      "source": "https://opengameart.org/content/cathedral-in-the-forest-ambient-loop",
+      "license": "CC0-1.0",
+      "author": "congusbongus",
+      "verification": "Source page explicit CC0, downloaded linked original OGG, no edits"
+    },
+    {
+      "file": "Assets\\Project\\Audio\\CC0_20261107\\Searching.ogg",
+      "sha256": "add2ee7931fd0c53f2804220e7355b10b38dbf5ab2b4dfdd415b61d8e14e51c8",
+      "source": "https://opengameart.org/content/searching",
+      "license": "CC0-1.0",
+      "author": "yd",
+      "verification": "Source page explicit CC0, downloaded linked original OGG, no edits"
+    },
+    {
+      "file": "Assets\\Project\\Audio\\CC0_20261107\\Wind.ogg",
+      "sha256": "0cfdbd3f21ed449689a9024264edf267d0037a6495813a7010827672ec191dac",
+      "source": "https://opengameart.org/content/wind-whoosh-loop",
+      "license": "CC0-1.0",
+      "author": "Sketchman3",
+      "verification": "Source page explicit CC0, downloaded linked original OGG, no edits"
+    }
+  ]
+}

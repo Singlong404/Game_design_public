@@ -1,0 +1,134 @@
+{
+  "game": "Mirror Trip",
+  "version": "1.0.0",
+  "date": "2026-11-08",
+  "author": "AA_建筑设计沈工 / Rong Shen (Singlong404)",
+  "profile": "https://github.com/Singlong404",
+  "files": [
+    {
+      "file": "Build/464fc2484017648b1ab0cc1ca5ac0908.framework.js.unityweb",
+      "bytes": 83694,
+      "sha256": "6159a8f0dde70d9bbe95cc7f53475ddab1164e9533b3c10d6c89f21533e3de91"
+    },
+    {
+      "file": "Build/6d3ee04ae67fe18bed2ba693e2976675.loader.js",
+      "bytes": 48540,
+      "sha256": "e9183d2c5393a47aeee3550968ad70bc9a9c8308e635661d0c1338f157b7d0fb"
+    },
+    {
+      "file": "Build/9bfbb1d6a72772d04e5109a34b1d0c5a.data.unityweb",
+      "bytes": 80661732,
+      "sha256": "b8144343d7dd77fea1d8be981ab1582c651845e0fbbce3fc1c04f1541bde0e1a"
+    },
+    {
+      "file": "Build/dc627caf2ca0e954f570e8110bcac16a.wasm.unityweb",
+      "bytes": 10336695,
+      "sha256": "5b6f5cf19b42115c9ec6c4f7f48e7f75d37f30abd2f7989c0701c2b3a25bd767"
+    },
+    {
+      "file": "COPYRIGHT.txt",
+      "bytes": 868,
+      "sha256": "32ca504d2d4a8e8d9a649aef064ad19aeb13b955a118fffa76accd2b1a189131"
+    },
+    {
+      "file": "Licenses/LXGW_WenKai-OFL.txt",
+      "bytes": 5171,
+      "sha256": "1a25e35da1031c6c3436fde545bb9cb5aca954e9873afe510c834b8b79bd21a0"
+    },
+    {
+      "file": "Licenses/PatrickHand-OFL.txt",
+      "bytes": 4376,
+      "sha256": "377f4f9c19e935228552478eb68cc2ed82910988a60ba60e2ac73b09f32d02d1"
+    },
+    {
+      "file": "Licenses/impact-sounds_License.txt",
+      "bytes": 608,
+      "sha256": "b49aa9c56b04528b95913de13e506a0f7c5e807b9925db9bfef86af1f91120db"
+    },
+    {
+      "file": "Licenses/interface-sounds_License.txt",
+      "bytes": 574,
+      "sha256": "f7966c773bbed0eca6a9c75081c44a178b38eae112724dbb5fdfbd4192d118a9"
+    },
+    {
+      "file": "Licenses/rpg-audio_License.txt",
+      "bytes": 478,
+      "sha256": "5735dfd72cb64cbbceda4ebc00c380c41ca680edb82ff153aa7c9ab97614c539"
+    },
+    {
+      "file": "Licenses/音频许可清单.json",
+      "bytes": 32011,
+      "sha256": "cbc93b58629fcbed261e891f1ba7c704e082347af912494a8fd2ff6a56b9a4c4"
+    },
+    {
+      "file": "StreamingAssets/ThirdPartyLicenses/PatrickHand-OFL.txt",
+      "bytes": 4376,
+      "sha256": "377f4f9c19e935228552478eb68cc2ed82910988a60ba60e2ac73b09f32d02d1"
+    },
+    {
+      "file": "TemplateData/MemoryProfiler.png",
+      "bytes": 665,
+      "sha256": "0ce87be20d0c24ab6cb73b57de2004da261cc2a641e69319c6ae3fe11fc85483"
+    },
+    {
+      "file": "TemplateData/favicon.ico",
+      "bytes": 2305,
+      "sha256": "9c13beb90ee8f70580d52a21d5233970d1c89e71e4a34a462c22610941c3c77f"
+    },
+    {
+      "file": "TemplateData/fullscreen-button.png",
+      "bytes": 175,
+      "sha256": "21221581673a54b8139d408d4a3f8d2b879e86827d4b6fc53b995ff7a99ee3e9"
+    },
+    {
+      "file": "TemplateData/progress-bar-empty-dark.png",
+      "bytes": 96,
+      "sha256": "bbee7131afe8a3365906240d89184dc86234c119467f390bc4bc6802328fdb4d"
+    },
+    {
+      "file": "TemplateData/progress-bar-empty-light.png",
+      "bytes": 109,
+      "sha256": "143696c060ad43d6c30f19ff5f49000927a139a2a1e4c9f45fafaa2b90d7d2be"
+    },
+    {
+      "file": "TemplateData/progress-bar-full-dark.png",
+      "bytes": 74,
+      "sha256": "3306a6244dcb3926fca38a28e3ced589df8ff1beed955eb17c0bbf01c918bc62"
+    },
+    {
+      "file": "TemplateData/progress-bar-full-light.png",
+      "bytes": 84,
+      "sha256": "12395ea785480c5cdf12fade6e6cbf49666d5bb1cef7240c113dbcba6bdc5c87"
+    },
+    {
+      "file": "TemplateData/style.css",
+      "bytes": 1666,
+      "sha256": "6ecc2390eb4fadd552622770f677d344c5393620b6c66511c17ff0805eea8aa2"
+    },
+    {
+      "file": "TemplateData/unity-logo-dark.png",
+      "bytes": 3042,
+      "sha256": "c1b72d26c096487dabc948b54bc203f8dac7ed4e3f5733918798e858acb4b159"
+    },
+    {
+      "file": "TemplateData/unity-logo-light.png",
+      "bytes": 3077,
+      "sha256": "002990aea0d946833cadc1519d5b7e50a4570bd537a0517dd79a59d3eec84da7"
+    },
+    {
+      "file": "TemplateData/unity-logo-title-footer.png",
+      "bytes": 1151,
+      "sha256": "9e8b3bdb67c2446d16362fe59449d892100931dbbadfe6a9d923a4142b57a79f"
+    },
+    {
+      "file": "TemplateData/webmemd-icon.png",
+      "bytes": 1670,
+      "sha256": "c56f5494640cedda273aad38d58e6ab9da625d5b3f4d875c0ff92c6192a569c2"
+    },
+    {
+      "file": "index.html",
+      "bytes": 3553,
+      "sha256": "a7f885edf8831c34ac7fbfe050a3ec7944efe4cdd11b9fa63ea55afd42c35626"
+    }
+  ]
+}

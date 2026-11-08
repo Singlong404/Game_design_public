@@ -1,0 +1,6 @@
+*.log
+*.pdb
+*.mdb
+*.map
+*BackUpThisFolder*
+PRIVATE_KEYS*/
