@@ -1,0 +1,2 @@
+# Preserve snapshot bytes so SOURCE_MANIFEST.json hashes match raw downloads.
+* -text whitespace=cr-at-eol

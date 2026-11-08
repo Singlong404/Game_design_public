@@ -1,0 +1,877 @@
+{
+  "snapshotDate": "2026-11-08",
+  "engine": "Unity 6000.6.5f1",
+  "scope": "All project runtime C# scripts and custom shaders, release build entry point, assembly definitions, Unity metadata, package manifest/lock and editor version. Not a self-contained Unity project.",
+  "files": [
+    {
+      "path": "Assets/Project/Art/Materials/InkSnow.shader",
+      "bytes": 639,
+      "sha256": "450b9b6208f526705ea03b9bc78a39b304fd9b21b1982bc054f0d590e5919abe"
+    },
+    {
+      "path": "Assets/Project/Art/Materials/InkSnow.shader.meta",
+      "bytes": 204,
+      "sha256": "d11c6b000256f0690d2228efed2327d069cfed0a75bab6d8161a068cdb1ee801"
+    },
+    {
+      "path": "Assets/Project/Art/Materials/SolidCard.shader",
+      "bytes": 1031,
+      "sha256": "087d869301097bee568499cedc10d8e9db0d395074aca4bf5967d70a42d0aa67"
+    },
+    {
+      "path": "Assets/Project/Art/Materials/SolidCard.shader.meta",
+      "bytes": 204,
+      "sha256": "4b477331c64559b3d5a417c7b53d1d417c63ca853577b93bc9ed4bf003a0bdce"
+    },
+    {
+      "path": "Assets/Project/Art/Materials.meta",
+      "bytes": 172,
+      "sha256": "254019cca2ad189ba761c4bf38acb3a59f06ba6dc383c4804957d681e5117202"
+    },
+    {
+      "path": "Assets/Project/Art/Production/NarrativeFinale/GameplayBadgeCutout.shader",
+      "bytes": 2598,
+      "sha256": "d24db98a566e33940d83290fa71c3e0870d535e4257c4b424b04bdae14641830"
+    },
+    {
+      "path": "Assets/Project/Art/Production/NarrativeFinale/GameplayBadgeCutout.shader.meta",
+      "bytes": 204,
+      "sha256": "c3a6b40414ea5421d3ff2be11f21c05e2fbef694e94dfea0842a2e750f4e6478"
+    },
+    {
+      "path": "Assets/Project/Art/Production/NarrativeFinale/HologramInkGlitch.shader",
+      "bytes": 2710,
+      "sha256": "bf95f2d1f47015f5110c208b55312da29ad617e8531742b0d57cfd20e24de0e7"
+    },
+    {
+      "path": "Assets/Project/Art/Production/NarrativeFinale/HologramInkGlitch.shader.meta",
+      "bytes": 204,
+      "sha256": "d3cf380456dce197d18e89c201c8922298d86a1f8da2d52498929a64ec137e11"
+    },
+    {
+      "path": "Assets/Project/Art/Production/NarrativeFinale.meta",
+      "bytes": 172,
+      "sha256": "33acd8cc66e522572dd495cd0637e3a8371e134de6edeefc24b305401b4d0574"
+    },
+    {
+      "path": "Assets/Project/Art/Production.meta",
+      "bytes": 172,
+      "sha256": "3577e14d6ba0288e9257460b0898d6df448bee0ea1bcc490c7cb009f96c1f598"
+    },
+    {
+      "path": "Assets/Project/Art.meta",
+      "bytes": 172,
+      "sha256": "f611b4996b63cef714e3613d83793f8928414177a3c6d359ededc37cc1b81e3f"
+    },
+    {
+      "path": "Assets/Project/Scripts/Audio/LevelAudioDirector.cs",
+      "bytes": 4856,
+      "sha256": "62ad48c2b51cbd231ca984a9691541faf0b4c4e1c2f093bb95e69c227fa37d0d"
+    },
+    {
+      "path": "Assets/Project/Scripts/Audio/LevelAudioDirector.cs.meta",
+      "bytes": 59,
+      "sha256": "c0d1267b61f0d59cab494ef55dbedc5ba4c4864ea210ef789650c45dcccbc344"
+    },
+    {
+      "path": "Assets/Project/Scripts/Audio.meta",
+      "bytes": 172,
+      "sha256": "b159cdd4a04aa5b7faf4c967f3c4fa1a3f98991ce13d03cf6564ab2517632b11"
+    },
+    {
+      "path": "Assets/Project/Scripts/Camera/CameraEdgeBuffer.cs",
+      "bytes": 979,
+      "sha256": "7d9eedf25d3909e6f50ca6bb17f16df8535a7542e82dd227850d32aef3c501eb"
+    },
+    {
+      "path": "Assets/Project/Scripts/Camera/CameraEdgeBuffer.cs.meta",
+      "bytes": 59,
+      "sha256": "a7c851aabf9180d427847df049bcaed435b17a147f600486e488812241b68872"
+    },
+    {
+      "path": "Assets/Project/Scripts/Camera/Level01CameraDirector.cs",
+      "bytes": 2823,
+      "sha256": "f06da2be50dd1c24f21139fa8fa15627153324f8ab53fae17c0ae9a7b4615a28"
+    },
+    {
+      "path": "Assets/Project/Scripts/Camera/Level01CameraDirector.cs.meta",
+      "bytes": 59,
+      "sha256": "1cbfa900ec4e860941c598ba3d693e909abccaa180e6bf8962ea7870a709f8fc"
+    },
+    {
+      "path": "Assets/Project/Scripts/Camera/PairedOverviewCamera.cs",
+      "bytes": 877,
+      "sha256": "826edf4b20f4998cca074245d6f361425bb4d0fc5e8022dabfadc959cda3b8e1"
+    },
+    {
+      "path": "Assets/Project/Scripts/Camera/PairedOverviewCamera.cs.meta",
+      "bytes": 59,
+      "sha256": "c43f6868aafd9bbd17bbe03d8c08ec015db8679f965f95b30b5329331c65ff9f"
+    },
+    {
+      "path": "Assets/Project/Scripts/Camera/PlayerFollowCamera.cs",
+      "bytes": 4835,
+      "sha256": "cea5b0f6545d3542ffe13bada42829925393379b13e4d533ab843776cdf7283e"
+    },
+    {
+      "path": "Assets/Project/Scripts/Camera/PlayerFollowCamera.cs.meta",
+      "bytes": 59,
+      "sha256": "be35e301048df6f8f6163164fbe15f90e5e346f46652ff77de964dccbff5ceb0"
+    },
+    {
+      "path": "Assets/Project/Scripts/Camera/SwitchFocusDirector.cs",
+      "bytes": 4198,
+      "sha256": "37e9639ad5a74cc079424815af07ffe2deab85d758243b505fbda83d46695463"
+    },
+    {
+      "path": "Assets/Project/Scripts/Camera/SwitchFocusDirector.cs.meta",
+      "bytes": 59,
+      "sha256": "66220aaa089b40e7a1dc0fe4071a281d00a9bae3b2764efca80dab974fb0417d"
+    },
+    {
+      "path": "Assets/Project/Scripts/Camera.meta",
+      "bytes": 172,
+      "sha256": "8bdef836459a17b332cf69ea2f4eca4f1177546414510457ed45dd7236b4c154"
+    },
+    {
+      "path": "Assets/Project/Scripts/Card/CardProjectile.cs",
+      "bytes": 766,
+      "sha256": "32dccce29f32ac52cafaa5a8b6099067f580aced5af2f12537e3cb1d7510ece1"
+    },
+    {
+      "path": "Assets/Project/Scripts/Card/CardProjectile.cs.meta",
+      "bytes": 59,
+      "sha256": "7acfb434348e8a713bdbf4f8a81ff8ec617f9faf5c21664b65b117ebbaed10fd"
+    },
+    {
+      "path": "Assets/Project/Scripts/Card/CardSystem.cs",
+      "bytes": 6306,
+      "sha256": "65ff877adeb4cc192c573574e43802d3292ece1c610b7377090bc8c1b46a99c4"
+    },
+    {
+      "path": "Assets/Project/Scripts/Card/CardSystem.cs.meta",
+      "bytes": 59,
+      "sha256": "dab0a2681a984e1167896bd212faf246123a4a2d51e2f0d533abefdca9cf6fec"
+    },
+    {
+      "path": "Assets/Project/Scripts/Card.meta",
+      "bytes": 172,
+      "sha256": "f8656f1d64d1749454594549595ce030153aca13b229c633cfcd584ffc0d52b0"
+    },
+    {
+      "path": "Assets/Project/Scripts/Core/DevelopmentSmokeDriver.cs",
+      "bytes": 4438,
+      "sha256": "2b333b4f477ed748e4499af09ea1071b35b65e5b25eee5325921a3283c166386"
+    },
+    {
+      "path": "Assets/Project/Scripts/Core/DevelopmentSmokeDriver.cs.meta",
+      "bytes": 59,
+      "sha256": "5dc36700088a888d809b242f8ee426308021eba1791b2928cae8f95ad193eaf1"
+    },
+    {
+      "path": "Assets/Project/Scripts/Core/EditorScenarioHost.cs",
+      "bytes": 339,
+      "sha256": "531f8ac4d7f7d1358c540de33c4103fa4922d2bc2bc9f6bb9701d5dfd86aebb8"
+    },
+    {
+      "path": "Assets/Project/Scripts/Core/EditorScenarioHost.cs.meta",
+      "bytes": 59,
+      "sha256": "c9e06ccd7be9b3f582aa14242ebbb6d5c360f69374de4e88407c6fc9bcd573a5"
+    },
+    {
+      "path": "Assets/Project/Scripts/Core/JourneySaveSystem.cs",
+      "bytes": 14982,
+      "sha256": "072a78f3e76785b091030ca185cecd933f35805589c22ce46d309b621946bb48"
+    },
+    {
+      "path": "Assets/Project/Scripts/Core/JourneySaveSystem.cs.meta",
+      "bytes": 59,
+      "sha256": "6c89f29255b54c5bb4da9485cb46fcc11709e6ea3fcd937caf9693d615d348e0"
+    },
+    {
+      "path": "Assets/Project/Scripts/Core/LevelWorldAuthoring.cs",
+      "bytes": 4372,
+      "sha256": "e4a6610271be8337c29eb7e7beb6782a7c779be2df0c127c20802d3dd1115954"
+    },
+    {
+      "path": "Assets/Project/Scripts/Core/LevelWorldAuthoring.cs.meta",
+      "bytes": 59,
+      "sha256": "0ae331792c78ae7529ddb1879b59d0e3d3b8fc4f41d1a2b537b5ab05bc43e662"
+    },
+    {
+      "path": "Assets/Project/Scripts/Core/WorldSession.cs",
+      "bytes": 15716,
+      "sha256": "69658c3693ab29e423e8d9dc182f580c01214d198e8b23997ea369d3895cfb95"
+    },
+    {
+      "path": "Assets/Project/Scripts/Core/WorldSession.cs.meta",
+      "bytes": 59,
+      "sha256": "1439faa2cef9382106ae15a04fa67e5cd7b750d319803e1389e2a57272eaf354"
+    },
+    {
+      "path": "Assets/Project/Scripts/Core.meta",
+      "bytes": 172,
+      "sha256": "52dd038fc28359273ccf5d6230b02ad7baa929a74ee5b84630c644c4d93da68e"
+    },
+    {
+      "path": "Assets/Project/Scripts/Data/PavilionLayout.cs",
+      "bytes": 1268,
+      "sha256": "ebdac8356ef0326e01d79a47cbe820f08a0c2e6afc387a29687cde8ba771abef"
+    },
+    {
+      "path": "Assets/Project/Scripts/Data/PavilionLayout.cs.meta",
+      "bytes": 59,
+      "sha256": "6e4e0353d3f068b620f664a89f0a66f350c62f62b2f8d7d2bfc96500b0ea80fa"
+    },
+    {
+      "path": "Assets/Project/Scripts/Data/PavilionLayoutReference.cs",
+      "bytes": 142,
+      "sha256": "71ffb6ab068130b461cb5dc227f34fe32a8ca04f241b92085a72224dfdeab802"
+    },
+    {
+      "path": "Assets/Project/Scripts/Data/PavilionLayoutReference.cs.meta",
+      "bytes": 59,
+      "sha256": "a2e3c6d33e63c63275b6736b8f7e31d8bb10894d2521a3a6ba829eac1b15b561"
+    },
+    {
+      "path": "Assets/Project/Scripts/Data.meta",
+      "bytes": 172,
+      "sha256": "7cbbbaca4fac838e4baf03c0a55cfbd988f7197ddb8027e4c330b03615201904"
+    },
+    {
+      "path": "Assets/Project/Scripts/Editor/MirrorTrip.Foundation.Editor.asmdef",
+      "bytes": 345,
+      "sha256": "99140c7c2a17ca1619cc8cdbddbeaa3074d03fd17b1ee459f4880df2a8978897"
+    },
+    {
+      "path": "Assets/Project/Scripts/Editor/MirrorTrip.Foundation.Editor.asmdef.meta",
+      "bytes": 166,
+      "sha256": "e119f8e2ebed6f85569a6a4200d0d151f76c68d5bbf8204eb3d02d4551422904"
+    },
+    {
+      "path": "Assets/Project/Scripts/Editor/ReleaseBuild.cs",
+      "bytes": 2970,
+      "sha256": "eb0632cd1675c7476131685b1e029a76d65423e1b6ae5f03080fb821bf1c5eed"
+    },
+    {
+      "path": "Assets/Project/Scripts/Editor/ReleaseBuild.cs.meta",
+      "bytes": 59,
+      "sha256": "fae7b700ce4a7a7746ab8ea40a8ff01ed30ff8731ec962323c18c22342cbd1cd"
+    },
+    {
+      "path": "Assets/Project/Scripts/Editor.meta",
+      "bytes": 172,
+      "sha256": "0e6bc9edeb8f2b4aa32e9ec1fd50b9797a802759f078f836b1bac9cc179bc3b3"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/DeathContactRegion.cs",
+      "bytes": 1494,
+      "sha256": "aa444d78f00451da2bfefbdda9de4d88827d0a78d0219d1ce40014602706750a"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/DeathContactRegion.cs.meta",
+      "bytes": 59,
+      "sha256": "787fe29fcdf892b4e7f5a70fa4159e5e824693d3902d407227be8a2a008976e9"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/Level01Expansion.cs",
+      "bytes": 4673,
+      "sha256": "cd8739df89aa01929b7f9d721376bcffb863f86dfa72e31a03b727cd955501e4"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/Level01Expansion.cs.meta",
+      "bytes": 59,
+      "sha256": "8346dc21ac62c146313e28c7b80f85a4048e3f49e9ca24ed036f15e1b926e9d0"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/Level01FinaleFlow.cs",
+      "bytes": 24180,
+      "sha256": "0cb363798663c689114a48b2f73ee0041b201c9905c322cfd70bab6cbf222f12"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/Level01FinaleFlow.cs.meta",
+      "bytes": 59,
+      "sha256": "b83f0ab8836137ab24adedf272e3c62f08168dd24802fd46c2e29a3cf4e9781d"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/Level01Sequence.cs",
+      "bytes": 3883,
+      "sha256": "27abd7982e317994b54ee0ff9caf7afd461256a18029a8099ce88167c442abe0"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/Level01Sequence.cs.meta",
+      "bytes": 59,
+      "sha256": "ff61c5ebd2a32889379c235d41039e8e9a732c6dce5d16aa606dc31add808af3"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/LevelObjectActuator.cs",
+      "bytes": 2921,
+      "sha256": "975a09c934dec8d9ccc667c5a598e6c59051c31e193a2b48040fa5b0be183300"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/LevelObjectActuator.cs.meta",
+      "bytes": 59,
+      "sha256": "733f3d40f4f73a2cbcefe3e40465421bf8938b0e066b972dfeb43ae0d153b44a"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/LevelProgressPoint.cs",
+      "bytes": 843,
+      "sha256": "52450f41736ac8850b805e9d9263ae7d27f1a08d017a7d1269085d981c7f021c"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/LevelProgressPoint.cs.meta",
+      "bytes": 59,
+      "sha256": "a5b2d97b5ef5e942d906b220c561d4bb98f8eac43496531521d5d323f133b0bb"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/WorldBoundaryDeath.cs",
+      "bytes": 1071,
+      "sha256": "c74592d87114492d2151b8c388b7a16fcb17d677e15251b5bff246e95d821413"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow/WorldBoundaryDeath.cs.meta",
+      "bytes": 59,
+      "sha256": "2a39be926f1bc790003aea06239f37ddfed5041533255519b0dc71d986b38d23"
+    },
+    {
+      "path": "Assets/Project/Scripts/Flow.meta",
+      "bytes": 172,
+      "sha256": "341db45d6eb5bc5b71895f6aef0068e0c09b029667b4133ffdf08f8edba180f9"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/ContactNarrative.cs",
+      "bytes": 3361,
+      "sha256": "e94731555a7b7fd1feea83795d1f66278022b3bb29a679416ea79bf262f4929b"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/ContactNarrative.cs.meta",
+      "bytes": 59,
+      "sha256": "eac164c6b1452a6f3981d692eec27b07357a674a7936118a1b1d1061d07cf53d"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/InteractionReach.cs",
+      "bytes": 1682,
+      "sha256": "9dbf9410e078dd68a29ab1205e88613939e87d471ebef49020d8fc490105ce61"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/InteractionReach.cs.meta",
+      "bytes": 59,
+      "sha256": "d03ebb9b4bf3d9bff5f209d929e8c295c456382bd84c272444c192d25018cfc7"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/InteractionSystem.cs",
+      "bytes": 8158,
+      "sha256": "2565720eb6406df16321b304fbb6c44a54d87409e98b7fcca4e49c8b1b361b81"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/InteractionSystem.cs.meta",
+      "bytes": 59,
+      "sha256": "2bfe43782e04b24c8dc9d9b7f558b2954920afac2635922a870080f3dca0725a"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/LevelStoryDirector.cs",
+      "bytes": 10803,
+      "sha256": "a075a865c1330ec185efc5b112e0abef5e280bc71c78782b99e02eaccae70390"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/LevelStoryDirector.cs.meta",
+      "bytes": 59,
+      "sha256": "01fd61bf9fc78db10f202235e5d15f4016dd26c06aff8804a5a4d0c2f972f304"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/StorySequence.cs",
+      "bytes": 976,
+      "sha256": "fc1533739fceab531188b0acef75cd359914508572f64e66ba0594865ca34d67"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/StorySequence.cs.meta",
+      "bytes": 59,
+      "sha256": "34849c577d8194e068d349b1306a549f04f1f837ef09e6cc298566f80faa0752"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/SurfaceSwitchInteractable.cs",
+      "bytes": 1346,
+      "sha256": "e6459e58e56c46959c5f48eab36c70dd10f127b804f06a5e28714804d42eeda3"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/SurfaceSwitchInteractable.cs.meta",
+      "bytes": 59,
+      "sha256": "6ede3be934d00062cb1a367ea076f1e64ecf2378a2254af2b6c07b8dd176f10d"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/TextInteractable.cs",
+      "bytes": 1418,
+      "sha256": "dab9cce84b250b6ffcc16507e8d7baf145c966f4fe200a2263afb62cd7fbb2dd"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction/TextInteractable.cs.meta",
+      "bytes": 59,
+      "sha256": "74d4e88741325925026b8caab20f95c5556b6c5c88681613f353f2c3340b7552"
+    },
+    {
+      "path": "Assets/Project/Scripts/Interaction.meta",
+      "bytes": 172,
+      "sha256": "b50e24f2e34e619b1ba6cb7e03c19c234d3f776106a6e554fffeaa5218933f95"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/CardReflector.cs",
+      "bytes": 538,
+      "sha256": "6cddf964b8c72725068b7ed3c04137a677e14d1e5f5716d94435b78f4e8e3c37"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/CardReflector.cs.meta",
+      "bytes": 59,
+      "sha256": "c97f94e6011b9862628f6d0e6c70c6a8d9c7e42b1a928daf64d6c76c41a7ae12"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/MechanismMirror.cs",
+      "bytes": 8244,
+      "sha256": "faea3b67e7d64816ad37de7d1cc4038b320e5ce7651a4d14521225009a449712"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/MechanismMirror.cs.meta",
+      "bytes": 59,
+      "sha256": "2c570a2b0e278fa85c092fffd4317e7e964b01990249f1bd012a11f6a2180500"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/MirrorPlacementArea.cs",
+      "bytes": 1397,
+      "sha256": "70dbfb82215ebe2594bbed479745847ae74f67575f735c5770708b1868154032"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/MirrorPlacementArea.cs.meta",
+      "bytes": 59,
+      "sha256": "b91dbff91d02cc5a25900319d959e4c270875f36fd5e8bf632a43befdaebb373"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/MirrorPlacementSystem.cs",
+      "bytes": 11365,
+      "sha256": "b8b59a5d24b9c07362dd2a6c6ec6708f28b04b94a9785eee95f60c6e3cf34f1a"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/MirrorPlacementSystem.cs.meta",
+      "bytes": 59,
+      "sha256": "b2bd2f8e7a58b1ffb09c5b3f54613208af0d39bf488dcfbf4638aade0a14dd8f"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/PlacementWallLink.cs",
+      "bytes": 2237,
+      "sha256": "3e32fdac7a78d666063698713603ffd92566492c9a29fcc93164e9a57e5e07a6"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/PlacementWallLink.cs.meta",
+      "bytes": 59,
+      "sha256": "331f258982ee5ede1cf4ba8ed9b5533147e249e9fa423bf4df8c51b0d19d5569"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/SceneMirror.cs",
+      "bytes": 2063,
+      "sha256": "8045969d713073cc16374d2d6806a75e1995a89d8a989412382b4e5001039df2"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/SceneMirror.cs.meta",
+      "bytes": 59,
+      "sha256": "2a41574e7da88e641fe46eb5b2e46046d06589b89969ee8e692dbad7c01855b8"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/SurfaceMirrorProxy.cs",
+      "bytes": 943,
+      "sha256": "9b2a367c0326553fd0d434b0342cd0656d6bf395c400de9c6ea7a59a6a15d0fa"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/SurfaceMirrorProxy.cs.meta",
+      "bytes": 59,
+      "sha256": "150ae5c46590032999af80bcd141e3cdd62dc20f675cc7f7dc2c13c4b67635a1"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/SurfacePlacementGuide.cs",
+      "bytes": 851,
+      "sha256": "2049a7ec82aad972db2a231d84722fcafc76f8eed393a960929b617695925bb3"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror/SurfacePlacementGuide.cs.meta",
+      "bytes": 59,
+      "sha256": "1007a3eb86ee649215d2ec65c6cabaaad8e3ecd4f0c20bd182f48970428d53d6"
+    },
+    {
+      "path": "Assets/Project/Scripts/Mirror.meta",
+      "bytes": 172,
+      "sha256": "4b6f3ef2e922a85f0944071830c22c7ff37d3c03625d6142100d29d4e65318e7"
+    },
+    {
+      "path": "Assets/Project/Scripts/MirrorTrip.Runtime.asmdef",
+      "bytes": 147,
+      "sha256": "fdac3b9e5372c4887164cac060973afb2a45f9155321a81c996514889dd469be"
+    },
+    {
+      "path": "Assets/Project/Scripts/MirrorTrip.Runtime.asmdef.meta",
+      "bytes": 166,
+      "sha256": "f7c0ad1e0461d865fa5ac5f1024a1c10d485b3ccdd7f2a115622c4d1a23f0056"
+    },
+    {
+      "path": "Assets/Project/Scripts/Player/LevelTestController.cs",
+      "bytes": 2321,
+      "sha256": "71e7f79deac6c8d9e171b2368f26f5a8dec9081ed94377f1c20438baf9de4a2c"
+    },
+    {
+      "path": "Assets/Project/Scripts/Player/LevelTestController.cs.meta",
+      "bytes": 59,
+      "sha256": "8d0634b6ad8643df9c13544fe24b5ba80a5344d9cad09623f92697709a591783"
+    },
+    {
+      "path": "Assets/Project/Scripts/Player/WorldPlayerMotor.cs",
+      "bytes": 6619,
+      "sha256": "1ec4694afd0b1d1085b56be9e23ea36d0c9a6dc83d5e2c7272d0fbb380e722c0"
+    },
+    {
+      "path": "Assets/Project/Scripts/Player/WorldPlayerMotor.cs.meta",
+      "bytes": 59,
+      "sha256": "cdf09fc1b27bc14bc0e4bdb064c6c607c1abb73ccf4f28ebd871eccfabbe1f36"
+    },
+    {
+      "path": "Assets/Project/Scripts/Player.meta",
+      "bytes": 172,
+      "sha256": "86b2c8268b13feef39ffe5f72eba065176e18eb6f6b6ac4c7b4a75cf9e49ea6e"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/CardThrowGuide.cs",
+      "bytes": 2290,
+      "sha256": "6dea010aada03f75c6742a92490fb3a73ab01868e492ac147fed734fb104e809"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/CardThrowGuide.cs.meta",
+      "bytes": 59,
+      "sha256": "38e421905c611c36dbd8c8038878aff9407a4a63b4cb78f290eb8d4ff9051a24"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/CharacterAnimationSet.cs",
+      "bytes": 691,
+      "sha256": "8c309c287e97dd29ed5e3596411439e9cea43f0b92be6becadedb77dc6fa6093"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/CharacterAnimationSet.cs.meta",
+      "bytes": 59,
+      "sha256": "8baa676862480987482061a761b2331db97d509a7a20030a892c129fd9536cdc"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/CharacterFrameAnimator.cs",
+      "bytes": 4862,
+      "sha256": "2e7e4a96ffa1cbda0c86e4607797accb27b8fe27872617bdf15460e2dbbee181"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/CharacterFrameAnimator.cs.meta",
+      "bytes": 59,
+      "sha256": "2c99397b94749a7341bd1e7b66cc57748427bec7bcb86912d2a688fc4f48f7a3"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/FinaleHologramLoop.cs",
+      "bytes": 2093,
+      "sha256": "16f2f50bd26ad0f26fc1bc95aaa0e70c3b9177a9119509e11e73dd808fb3bdaa"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/FinaleHologramLoop.cs.meta",
+      "bytes": 59,
+      "sha256": "434301f50475f006c91e26241a29bb181ab195987d656758bb9035dddb4be14f"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/GameplayAccent.cs",
+      "bytes": 1341,
+      "sha256": "251b1cc42cefdb27bd8d4b9222f904bf956a5d27850eccb3edb4bd5750bca1a5"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/GameplayAccent.cs.meta",
+      "bytes": 59,
+      "sha256": "90ab2d722a94345aaeaee8dbab7a278a5c64103da948ac64798a6856a8fe9436"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/GameplayFeedback.cs",
+      "bytes": 4502,
+      "sha256": "939ca9b448a7ed63a2f6ec9a233692fde136157f921d37d44efdb7cbe1d82d55"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/GameplayFeedback.cs.meta",
+      "bytes": 59,
+      "sha256": "894d6b19d22a9545d4ac70c4a64090e4843fbd4edcb3d4cd2685c2e035a01905"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/InteractiveInkView.cs",
+      "bytes": 4471,
+      "sha256": "c43367ba30fe3de2310b90b2949b4e92b9f31de516b7253ee61f9aacbb1caf88"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/InteractiveInkView.cs.meta",
+      "bytes": 59,
+      "sha256": "4ee8fe49b9e4b7bb835374b22fdb3039f803b6e49867264af75c847efefda531"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/LevelBackgroundRig.cs",
+      "bytes": 4396,
+      "sha256": "02090cec0bdb2b146c851f7c899f425514517e64d66195010333c1b8d4dc148b"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/LevelBackgroundRig.cs.meta",
+      "bytes": 59,
+      "sha256": "d320a30813a6699be1e0cef9a0a6e49d7eb787d2c70f1a1d66ec4d5401d96f36"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/MonochromePresentation.cs",
+      "bytes": 1842,
+      "sha256": "12ee3534553a63b5eb0ee8276fc7753350ac9480daaa52fc4e1ebb05dabaee37"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/MonochromePresentation.cs.meta",
+      "bytes": 59,
+      "sha256": "97e339e0e791f926121fd080db7f9d2118919643315c9e0d154e093bf7f992c8"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/MuchaPalette.cs",
+      "bytes": 1615,
+      "sha256": "33b137352ca559c79ebd969f448eea7a620ba47fbd292fefa2d596bf3366b235"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/MuchaPalette.cs.meta",
+      "bytes": 59,
+      "sha256": "62e9dfa311e3cf0015b9307fb9fc3510b054c4a69b86e02b290ceea1e3814b92"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/PortraitIdleMotion.cs",
+      "bytes": 1982,
+      "sha256": "12bdfbae32cac662d26f9dd6cc7d7a6f9b0aafdb84682b5eca963fae5da1fc51"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/PortraitIdleMotion.cs.meta",
+      "bytes": 59,
+      "sha256": "176ee78464b87f8874559b942fa60069efb05c9885b2982a5b20c2a3b12fe2d0"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/SurfaceFootstepFX.cs",
+      "bytes": 2614,
+      "sha256": "a5ee5077b78db6bb7cf0c4c1a55224973d0c132f3cc80a6c822936f0c8938702"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation/SurfaceFootstepFX.cs.meta",
+      "bytes": 59,
+      "sha256": "371998097a45a3f8ac4d002d4f1a082b9e05a4f7b835bf9149cc30836d6153f8"
+    },
+    {
+      "path": "Assets/Project/Scripts/Presentation.meta",
+      "bytes": 172,
+      "sha256": "401923dd38a1602e1f7422d3edf2b83089ec87d29b1d5465103ca2c6e176610e"
+    },
+    {
+      "path": "Assets/Project/Scripts/Puzzle/CardSwitch.cs",
+      "bytes": 2105,
+      "sha256": "9916b1e51af4e8f753792f7ff6fdda23024f497f7d0a1a5d6ac1bd53e25f7b38"
+    },
+    {
+      "path": "Assets/Project/Scripts/Puzzle/CardSwitch.cs.meta",
+      "bytes": 59,
+      "sha256": "29893e7077979a468aa14e6150dc737bc229ad9ca45133143e72ca1a405b9478"
+    },
+    {
+      "path": "Assets/Project/Scripts/Puzzle/PairedDoor.cs",
+      "bytes": 1876,
+      "sha256": "1de5a84c918cfb4c0e43f156a0b79f191eab176aa6018c03ea81c1226d9122ac"
+    },
+    {
+      "path": "Assets/Project/Scripts/Puzzle/PairedDoor.cs.meta",
+      "bytes": 59,
+      "sha256": "3e22a948cf6c068718a29d3609702ddbba6e9da473d0858284c00db1cf2ff9de"
+    },
+    {
+      "path": "Assets/Project/Scripts/Puzzle/TorchCheckpoint.cs",
+      "bytes": 2928,
+      "sha256": "29f95b81d569fad680c65b0825a029b7d06385f5fecb2400077c7b71e66c3bd8"
+    },
+    {
+      "path": "Assets/Project/Scripts/Puzzle/TorchCheckpoint.cs.meta",
+      "bytes": 59,
+      "sha256": "a89d00bc94ba5f83c0283f2335de3832242d9d51e3df58743fcff3008b620aaa"
+    },
+    {
+      "path": "Assets/Project/Scripts/Puzzle.meta",
+      "bytes": 172,
+      "sha256": "8f9e4b3ef9d4fbce4504d5015e44fd2ead8f5b18c576a9b9fa77bd683104d53c"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/FloralMotion.cs",
+      "bytes": 460,
+      "sha256": "0188c761719665fe8ce288676f47201b26466272e39d6ec6adc4a5239a520c1e"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/FloralMotion.cs.meta",
+      "bytes": 59,
+      "sha256": "35ad6747124a4162a59e221708c56c1970420b3b34932b50ce77ec30e78afdc6"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/GameLocalization.cs",
+      "bytes": 5241,
+      "sha256": "89a67dc709fd615012cfbeb03e05487e09c05c269c4a95b24eedc1ae6b73017c"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/GameLocalization.cs.meta",
+      "bytes": 59,
+      "sha256": "a852e9678ad02f59163d404d5bd85d90548554650aa54d977091652425e3df96"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/GuideInkArrow.cs",
+      "bytes": 1015,
+      "sha256": "add8ea6fa98d7fb6427d93f73ab7b397f86cd4aa0293966692057c3c53006edd"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/GuideInkArrow.cs.meta",
+      "bytes": 59,
+      "sha256": "7f1d2ca90cba1ce43cf1cb50b588a23154072992a4489275c912cc07438d9f45"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/InkButtonLabel.cs",
+      "bytes": 865,
+      "sha256": "3c75d563c99729e41e35a5a258d797592f80da7794222c4eb4c2fab02c2a5a2d"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/InkButtonLabel.cs.meta",
+      "bytes": 59,
+      "sha256": "35e748ab21ce109410bf740f2fc949b062067abcac0aaef7b3d5885e4a79554f"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/JourneySlotsUI.cs",
+      "bytes": 2026,
+      "sha256": "1aa2078eb31261927625550d311e0fa2dabd10a15539310ddceeeb643805bdad"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/JourneySlotsUI.cs.meta",
+      "bytes": 59,
+      "sha256": "6a2ac58aca7dfa3cfd3ffb2a268d1079a3f5b6d0802fc7722cb38f5c36944ff5"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/LevelGuideBook.cs",
+      "bytes": 741,
+      "sha256": "2d6eb9b84766432326c24c9f86497d8825830ae3c7fe06ef3720009515160c91"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/LevelGuideBook.cs.meta",
+      "bytes": 59,
+      "sha256": "f7915e5450259229d534da045803547674d66b6a8a9893abe075ad0165ba10bb"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/LevelGuideUI.cs",
+      "bytes": 6895,
+      "sha256": "00f1a0423fff5deeff982ecef539d05441985715ec3f4aac4d1e4066690b2bda"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/LevelGuideUI.cs.meta",
+      "bytes": 59,
+      "sha256": "b2db17d243e37d98b880dc44828123913d819512d37bed034502b355f04a3639"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/LocalizedTextBinding.cs",
+      "bytes": 1675,
+      "sha256": "4e35c27e43943efb99f4476267f7f6b8f64cd9ed4b79dab0141366e49f99f7d1"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/LocalizedTextBinding.cs.meta",
+      "bytes": 59,
+      "sha256": "f948dbc7a54afa1fdde9a952e8a0333d666a68989e7921f212d9438c2af6219c"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/NotesJournalUI.cs",
+      "bytes": 5939,
+      "sha256": "48b3cdefad0b71e8df07c80c4ff68d9955ba413df7037297677ddf32f7f7f4ea"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/NotesJournalUI.cs.meta",
+      "bytes": 59,
+      "sha256": "f7c4d31ca9c6bf0544380c2fb480cde0cbed85c7c06eb4c4121b494d7d5d60b6"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/ProductionUI.cs",
+      "bytes": 18763,
+      "sha256": "786e203b5f77d7f40b711f286499779583139ae1a8257a79cda51d682a0d4055"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/ProductionUI.cs.meta",
+      "bytes": 59,
+      "sha256": "fc387af8a148a6659d1cba80a2b4dfdde5e0ddc544379f526c9c358dbd5a0934"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/SprintStatusUI.cs",
+      "bytes": 518,
+      "sha256": "a17420d58d5803358ee2a5d3d94eef8ca641a1098ac17d9df898ee4c63cd0f3a"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/SprintStatusUI.cs.meta",
+      "bytes": 59,
+      "sha256": "b0e28a1062f79f85e32e97aac0513ef3db6284dca571623abebaeb0772d89213"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/TitleCompletionView.cs",
+      "bytes": 736,
+      "sha256": "cbe69f6dcdf7116390acb83b3d35a604ef802e1b99fa67991e8dbb30ba044f93"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/TitleCompletionView.cs.meta",
+      "bytes": 59,
+      "sha256": "9d3b2a50174594c9d9c61e171e8cbd1da4747f43399c8936cfd3a319c4251665"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/WorldHUD.cs",
+      "bytes": 3856,
+      "sha256": "7acb7157a9f2a3a41ddef21af1567a6f6fb9826a1ff70d5862631f4584f6877e"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/WorldHUD.cs.meta",
+      "bytes": 59,
+      "sha256": "acc49d7726c07d34842c0dc11c38446d8dac0c8b612062e2971f47d5816b71d1"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/WorldInteractionHints.cs",
+      "bytes": 4980,
+      "sha256": "7c9057f0f9b53f6cab92b44bf28b3274e64682380fdeeb73f0d300ad9605eee6"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/WorldInteractionHints.cs.meta",
+      "bytes": 59,
+      "sha256": "9abc5ee62c9391998e8053eb7589cdcfe488fb2d91a0fc568450ae10b518ffe7"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/WorldViewportLayout.cs",
+      "bytes": 716,
+      "sha256": "a6fb19d4474327d92cf548a585f4d5441237f7b84095f486b7bcd012b2365274"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI/WorldViewportLayout.cs.meta",
+      "bytes": 59,
+      "sha256": "e69750519fbb4db07b8cf2bddcb1cebbc70b316891f5124e27ba1582ffa0d75c"
+    },
+    {
+      "path": "Assets/Project/Scripts/UI.meta",
+      "bytes": 172,
+      "sha256": "9e368a37d14ae89c03eddbd5c1438b9d9a48aff140a1ce9f50e7e2c746d98c26"
+    },
+    {
+      "path": "Assets/Project/Scripts.meta",
+      "bytes": 172,
+      "sha256": "b343e03297c4ddfbd498b9461e0afb389182fc6d12c2624d3b551740062196f6"
+    },
+    {
+      "path": "Assets/Project.meta",
+      "bytes": 172,
+      "sha256": "f9daa683abf3648b223e418f6faf9837bc000aa964a851121dcfa1924db2f3c0"
+    },
+    {
+      "path": "Packages/manifest.json",
+      "bytes": 2401,
+      "sha256": "e161bf96e8888f7a2a6131629adda005b3925f1c06f7f45a53c68a88b9c1490c"
+    },
+    {
+      "path": "Packages/packages-lock.json",
+      "bytes": 15936,
+      "sha256": "abf69d7da2b0ae09ebec6d8dbd75ffdca5536494aee480ea1b255ef7153ddfad"
+    },
+    {
+      "path": "ProjectSettings/ProjectVersion.txt",
+      "bytes": 83,
+      "sha256": "b3402f9d37aab37e8ad7676fff8d2f3b1333d857d2fade3fae888482e59d42ad"
+    }
+  ]
+}

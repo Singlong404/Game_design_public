@@ -5,8 +5,8 @@ English credit: Rong Shen (Singlong404)
 Author: https://github.com/Singlong404
 Copyright (c) 2026 Rong Shen. All rights reserved for original project contributions, to the extent applicable.
 
-This public distribution is a playable demo, not an open-source release.
+This repository distributes playable demos and a source-available code snapshot in mirror-trip-source/. It does not grant an open-source license. The source snapshot can be inspected publicly; the complete authoring project and production assets remain private.
 You may play and link to the official demo. Gameplay recordings may credit the author and link to the official page.
-Copying, extracting or republishing original assets/source, or distributing modified copies, requires the author's permission.
+Except for rights already granted under applicable law or GitHub's Terms of Service, reusing or redistributing original assets/source, or distributing modified copies, requires the author's permission.
 Third-party components retain their own licenses; these restrictions do not override CC0, SIL OFL, or other third-party rights.
 No claim is made that client-side assets cannot be extracted. Private source archives are encrypted and not part of this public release.

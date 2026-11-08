@@ -1,0 +1,6 @@
+{
+  "name": "MirrorTrip.Runtime",
+  "rootNamespace": "MirrorTrip",
+  "references": ["Unity.InputSystem", "Unity.ugui"],
+  "autoReferenced": true
+}

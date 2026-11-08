@@ -4,3 +4,17 @@
 *.map
 *BackUpThisFolder*
 PRIVATE_KEYS*/
+
+# Keep Unity caches and credentials out of the public source snapshot.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+.env
+.env.*
+*.pfx
+*.p12
+*.keystore
+*.key
+*SigningKey*
